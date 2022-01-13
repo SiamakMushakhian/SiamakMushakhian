@@ -1,4 +1,5 @@
-![This is an image](Profile.png)
+<img src="Profile.png" height="300">
+
 ### Hi there, I am Siamak 👋
 <!--
 **SiamakMushakhian/SiamakMushakhian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
