@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Deep Learning
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun fact: I love to play soccer, go hiking, play racing video games.
+- ⚡ Fun fact: I love to play soccer, go hiking, and play racing video games.
 <!-- - 🥅 2021 Goals: Contribute more to Open Source projects -->
 
 
